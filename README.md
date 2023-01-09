@@ -1,1 +1,1 @@
-# AutoPython
+# Automated Python Lessons
